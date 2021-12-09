@@ -1,0 +1,16 @@
+.product-container {
+	display: flex;
+	flex-flow: wrap;
+	padding: 24px;
+}
+
+.product-container img {
+	max-width: 340px;
+	height: 300px;
+}
+h6.mb-3{
+	text-decoration-line: line-through;
+}
+.woo-next-cart-icon {
+	font-size: 25px;
+}

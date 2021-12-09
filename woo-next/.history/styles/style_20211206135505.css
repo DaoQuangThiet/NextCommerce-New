@@ -1,0 +1,9 @@
+
+
+.product-container img {
+	max-width: 340px;
+	height: 300px;
+}
+h6.mb-3{
+	text-decoration-line: line-through;
+}
